@@ -11,7 +11,7 @@ transactionsRouter.get('/', async (request, response) => {
   // TODO
 });
 
-transactionsRouter.post('/', async (request, response) => {
+transactionsRouter.post('/transactions', async (request, response) => {
   // TODO
 });
 
